@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygohil2350&label=Profile%20views&color=0e75b6&style=flat" alt="ygohil2350" /> </p>
 
-- 🌱 I’m currently learning **New Tech's**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **React or Python(FastAPI)**
 
